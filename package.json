@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio10-javascript",
+  "version": "1.0.0",
+  "description": "Ejercicio 10",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Luis Ibañez",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
